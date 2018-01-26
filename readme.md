@@ -6,7 +6,7 @@ This project is a natural-language processing exercise done in Python (this is i
 
 # Usage
 
-You will need [spaCy](https://spacy.io/docs/usage/) and python installed to run the program yourself.  As of right now, the programs run quite slowly.  Hopefully this will be remedied in further updates.  
+You will need [spaCy](https://spacy.io/docs/usage/) and python installed to run the program yourself.  As of right now, the programs run quite slowly.  ~~Hopefully this will be remedied in further updates.~~  Unless I get a nicer computer I don't think this will happen any time soon!  
 
 # Files 
 
